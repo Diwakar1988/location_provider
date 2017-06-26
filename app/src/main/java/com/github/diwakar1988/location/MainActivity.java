@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import com.github.diwakar1988.location.core.BaseLocationProvider;
 import com.github.diwakar1988.location.provider.LocationProvider;
-import com.github.diwakar1988.location.provider.OnLocationListener;
+import com.github.diwakar1988.location.core.OnLocationListener;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener,OnLocationListener{
 

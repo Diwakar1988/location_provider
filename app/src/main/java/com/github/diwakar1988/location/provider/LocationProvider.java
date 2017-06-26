@@ -9,6 +9,7 @@ import android.support.v4.app.ActivityCompat;
 
 import com.github.diwakar1988.location.core.BaseLocationProvider;
 import com.github.diwakar1988.location.core.LocationException;
+import com.github.diwakar1988.location.core.OnLocationListener;
 import com.google.android.gms.location.LocationServices;
 
 public class LocationProvider extends BaseLocationProvider {

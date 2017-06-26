@@ -1,4 +1,4 @@
-package com.github.diwakar1988.location.provider;
+package com.github.diwakar1988.location.core;
 
 
 import android.location.Location;

@@ -3,7 +3,7 @@ package com.github.diwakar1988.location.tracker;
 import android.app.Activity;
 
 import com.github.diwakar1988.location.core.BaseLocationProvider;
-import com.github.diwakar1988.location.provider.OnLocationListener;
+import com.github.diwakar1988.location.core.OnLocationListener;
 
 
 public class LocationTracker extends BaseLocationProvider {
